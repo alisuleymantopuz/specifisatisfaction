@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationPattern.UI", "SpecificationPattern.UI\SpecificationPattern.UI.csproj", "{F5635D88-A557-4F42-AE21-EAEA1A429558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationPattern.Specifications", "SpecificationPattern.Library\SpecificationPattern.Specifications.csproj", "{5CBA7672-7BC8-46B7-8C46-76A1B9C3F451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationPattern.Domain", "SpecificationPattern.Domain\SpecificationPattern.Domain.csproj", "{014D712E-C0DA-4BC5-8922-400CBC89FABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationPattern.Specifications.MobileSpecifications", "SpecificationPattern.Specifications.Mobile\SpecificationPattern.Specifications.MobileSpecifications.csproj", "{2794B4D5-AC2B-4EF7-BC5D-4CE05C0C01E0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://developmentastpz.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SpecificationPattern.Domain\\SpecificationPattern.Domain.csproj
+		SccProjectName1 = SpecificationPattern.Domain
+		SccLocalPath1 = SpecificationPattern.Domain
+		SccProjectUniqueName2 = SpecificationPattern.Library\\SpecificationPattern.Specifications.csproj
+		SccProjectName2 = SpecificationPattern.Library
+		SccLocalPath2 = SpecificationPattern.Library
+		SccProjectUniqueName3 = SpecificationPattern.Specifications.Mobile\\SpecificationPattern.Specifications.MobileSpecifications.csproj
+		SccProjectName3 = SpecificationPattern.Specifications.Mobile
+		SccLocalPath3 = SpecificationPattern.Specifications.Mobile
+		SccProjectUniqueName4 = SpecificationPattern.UI\\SpecificationPattern.UI.csproj
+		SccProjectName4 = SpecificationPattern.UI
+		SccLocalPath4 = SpecificationPattern.UI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5635D88-A557-4F42-AE21-EAEA1A429558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5635D88-A557-4F42-AE21-EAEA1A429558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5635D88-A557-4F42-AE21-EAEA1A429558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5635D88-A557-4F42-AE21-EAEA1A429558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBA7672-7BC8-46B7-8C46-76A1B9C3F451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBA7672-7BC8-46B7-8C46-76A1B9C3F451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBA7672-7BC8-46B7-8C46-76A1B9C3F451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBA7672-7BC8-46B7-8C46-76A1B9C3F451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014D712E-C0DA-4BC5-8922-400CBC89FABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014D712E-C0DA-4BC5-8922-400CBC89FABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014D712E-C0DA-4BC5-8922-400CBC89FABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014D712E-C0DA-4BC5-8922-400CBC89FABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2794B4D5-AC2B-4EF7-BC5D-4CE05C0C01E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2794B4D5-AC2B-4EF7-BC5D-4CE05C0C01E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2794B4D5-AC2B-4EF7-BC5D-4CE05C0C01E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2794B4D5-AC2B-4EF7-BC5D-4CE05C0C01E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
